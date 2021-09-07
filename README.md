@@ -23,6 +23,7 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 
 - [x] Lab-08-1 Perceptron
 - [x] Lab-08-2 Multi Layer Perceptron
+- [x] Lab-08-3 BackPropagation
 - [x] Lab-09-1 ReLU
 - [x] Lab-09-2 Weight initialization
 - [x] Lab-09-3 Dropout
@@ -33,7 +34,6 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 
 ## Part III. Convolutional Neural Network
 
-- [x] Lab-10-0 Convolution Neural Network-intro
 - [x] Lab-10-1 Convolution
 - [x] Lab-10-2 Mnist CNN
 - [x] Lab-10-3 visdom
@@ -42,7 +42,6 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 - [x] Lab-10-5 Advance CNN(VGG)
 - [x] Lab-10-6-1 Advanced CNN(RESNET-1)
 - [x] Lab-10-6-2 Advanced CNN(RESNET-2)
-- [x] Lab-10-7 Next step of CNN
 - [x] Project B. Cat-Dog Classifier
 
 
