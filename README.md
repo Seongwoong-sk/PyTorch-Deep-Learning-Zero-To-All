@@ -28,7 +28,7 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 - [x] Lab-09-2 Weight initialization
 - [x] Lab-09-3 Dropout
 - [x] Lab-09-4 Batch Normalization
-- [x] Project A. Fashion MNIST Classifier
+- [x] [Project A. Fashion MNIST Classifier](https://github.com/Seongwoong-sk/PyTorch-Deep-Learning-Zero-To-All/blob/main/Part-II%20Deep%20Neural%20Network/Fashion_MNIST_Classifier.ipynb)
 
 
 
